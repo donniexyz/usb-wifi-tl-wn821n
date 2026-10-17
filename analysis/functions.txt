@@ -1,0 +1,1232 @@
+addr   conf size callers  dptr-windows-used
+0002  M  1     0       
+0003  M  1     0       
+0004  H  2     0       
+0006  H  16    0       
+0016  M  16    0       
+0026  M  32    0       
+0046  M  8     0       
+004E  M  37    0       
+0073  M  9     0       
+007C  M  8     0       
+0084  M  7     0       
+008B  M  8     0       
+0093  M  13    0       
+00A0  M  18    0       
+00B2  M  9     0       
+00BB  M  8     0       
+00C3  M  56    0       
+00FB  M  58    0       
+0135  M  7     0       
+013C  M  28    0       
+0158  M  24    0       
+0170  M  6     0       
+0176  M  22    0       
+018C  M  6     0       
+0192  M  22    0       
+01A8  M  605   0       
+0405  M  138   0       
+048F  M  19    0       
+04A2  M  75    0       
+04ED  M  1     0       
+04EE  M  52    0       
+0522  M  54    0       
+0558  M  27    0       
+0573  H  50    0       
+05A5  M  24    0       
+05BD  M  144   0       
+064D  M  60    0       RAM/table-hi x1
+0689  H  5     28      
+068E  M  20    0       
+06A2  M  42    2       
+06CC  M  1     0       
+06CD  H  2     0       
+06CF  H  52    0       
+0703  H  11    1       
+070E  M  9     0       
+0717  M  32    0       
+0737  M  65    0       
+0778  M  8     0       
+0780  H  2     4       
+0782  M  21    0       
+0797  M  9     0       
+07A0  M  11    0       
+07AB  H  19    5       
+07BE  M  81    0       
+080F  M  10    0       
+0819  M  21    0       
+082E  M  11    0       
+0839  M  13    0       
+0846  M  13    0       
+0853  M  7     0       
+085A  H  19    9       
+086D  M  61    10      
+08AA  H  6     5       
+08B0  M  13    0       
+08BD  M  13    0       
+08CA  M  17    0       
+08DB  M  12    0       
+08E7  M  12    0       
+08F3  M  12    7       
+08FF  M  9     0       
+0908  M  9     0       
+0911  M  27    0       
+092C  M  60    0       
+0968  M  7     0       
+096F  M  13    0       
+097C  M  92    0       
+09D8  M  15    0       
+09E7  M  45    0       win-Ax x4, MAC/reg-low x2
+0A14  M  11    0       win-Ax x1
+0A1F  M  225   0       win-9x x8, win-8x x8, win-Ax x1
+0B00  M  43    1       
+0B2B  M  12    1       win-Ax x1
+0B37  M  20    1       win-Ax x1, win-9x x1
+0B4B  M  644   0       win-Ax x23, win-9x x1
+0DCF  M  13    0       
+0DDC  M  38    0       
+0E02  M  106   0       
+0E6C  M  70    0       
+0EB2  M  7     0       
+0EB9  M  20    0       MAC/reg-low x2, win-Ax x1
+0ECD  M  21    0       win-8x x1
+0EE2  M  201   0       win-Ax x16
+0FAB  M  12    0       win-9x x1
+0FB7  M  8     1       MAC/reg-low x1
+0FBF  M  9     1       win-8x x1
+0FC8  M  12    1       win-8x x1
+0FD4  M  11    0       win-9x x1
+0FDF  M  7     2       
+0FE6  M  8     1       
+0FEE  M  8     1       win-Ax x1
+0FF6  M  25    0       
+100F  M  29    9       win-Ax x2
+102C  M  112   0       MAC/reg-low x4, win-9x x2, RAM/table x1, win-Ax x1
+109C  M  25    1       
+10B5  M  25    1       
+10CE  M  64    0       
+110E  M  110   0       win-9x x2, MAC/reg-low x1
+117C  M  68    0       win-9x x2, MAC/reg-low x2
+11C0  M  34    1       MAC/reg-low x2
+11E2  M  35    1       MAC/reg-low x2
+1205  M  11    1       
+1210  M  112   0       RAM/table x5, MAC/reg-low x3, win-Ax x1, win-9x x1
+1280  M  19    0       win-Bx+ x2, win-Ax x1
+1293  M  304   0       win-Ax x10, win-9x x8, win-Bx+ x3, RAM/table x2
+13C3  M  36    0       
+13E7  M  87    0       win-9x x2, win-Bx+ x1
+143E  M  11    0       MAC/reg-low x1
+1449  M  80    0       win-Ax x5
+1499  M  97    0       MAC/reg-low x3, RAM/table x2, win-9x x2, win-Ax x1
+14FA  M  218   1       win-Ax x10, win-9x x7, RAM/table x2, MAC/reg-low x1
+15D4  M  19    1       win-9x x1
+15E7  M  127   2       win-9x x6, MAC/reg-low x2, win-Ax x1, win-Bx+ x1
+1666  M  84    1       win-Ax x2, win-Bx+ x2
+16BA  M  15    1       
+16C9  M  74    0       win-Ax x3
+1713  M  28    0       win-9x x2, win-Ax x1
+172F  M  16    0       win-Ax x1, MAC/reg-low x1
+173F  M  86    0       win-Ax x10, win-Bx+ x6
+1795  M  8     1       win-Ax x1
+179D  M  11    1       
+17A8  M  14    1       win-Ax x1
+17B6  M  64    0       win-Ax x4, MAC/reg-low x2
+17F6  M  37    0       win-Ax x3, MAC/reg-low x1
+181B  M  59    0       win-Ax x3, RAM/table x1
+1856  M  55    0       win-Ax x4
+188D  M  70    0       win-9x x2, win-Ax x1, RAM/table x1
+18D3  M  9     0       win-9x x1
+18DC  M  15    0       win-9x x1
+18EB  M  333   0       win-9x x14, RAM/table x6, win-Ax x6
+1A38  M  14    0       win-9x x1
+1A46  M  22    0       
+1A5C  M  380   0       RAM/table x18, win-9x x5, win-Ax x3
+1BD8  M  33    0       RAM/table x2
+1BF9  M  8     2       win-Ax x1
+1C01  M  9     0       win-9x x1
+1C0A  M  125   0       win-Ax x5, win-9x x3
+1C87  M  266   0       win-Ax x12, RAM/table x5
+1D91  M  8     0       win-Ax x1
+1D99  M  38    0       win-9x x1, win-Ax x1
+1DBF  M  51    0       RAM/table x3, win-Ax x3
+1DF2  M  10    0       
+1DFC  M  9     0       
+1E05  M  10    0       
+1E0F  M  145   0       win-Ax x5, RAM/table x1
+1EA0  M  19    0       
+1EB3  M  65    0       win-Ax x2
+1EF4  M  10    1       win-Ax x1
+1EFE  M  96    2       win-Ax x9
+1F5E  M  8     1       win-Ax x1
+1F66  M  8     1       win-Ax x1
+1F6E  M  14    3       
+1F7C  M  23    2       win-Ax x1
+1F93  M  9     0       
+1F9C  M  8     0       win-Ax x1
+1FA4  M  10    2       win-Ax x1
+1FAE  M  11    1       win-9x x2
+1FB9  M  13    0       win-Ax x1, win-9x x1
+1FC6  M  19    2       win-9x x2
+1FD9  M  9     0       win-9x x1
+1FE2  M  16    0       
+1FF2  M  7     2       win-Ax x1
+1FF9  M  32    0       win-9x x1, MAC/reg-low x1, RAM/table x1
+2019  M  88    0       win-9x x5, win-Ax x2, MAC/reg-low x1
+2071  M  40    1       win-9x x2, win-Ax x1
+2099  M  9     0       
+20A2  M  14    0       win-9x x1
+20B0  M  7     0       
+20B7  M  16    0       
+20C7  M  62    0       win-9x x4, win-Ax x1
+2105  M  43    0       win-9x x4
+2130  M  10    0       
+213A  M  140   0       win-9x x10
+21C6  M  62    3       win-9x x4
+2204  M  32    3       win-9x x1
+2224  M  42    3       win-9x x2, RAM/table x1
+224E  M  21    3       win-Ax x2
+2263  M  47    1       win-9x x3
+2292  M  112   2       win-9x x6, win-Ax x2
+2302  M  42    0       RAM/table x1
+232C  M  121   0       win-9x x7
+23A5  M  17    0       win-9x x1
+23B6  M  165   0       win-9x x10, RAM/table x1
+245B  M  10    2       RAM/table x1
+2465  M  20    1       win-9x x1
+2479  M  16    0       
+2489  M  7     0       
+2490  M  10    0       
+249A  M  10    0       
+24A4  M  10    0       
+24AE  M  9     0       
+24B7  M  14    0       
+24C5  M  10    0       
+24CF  M  137   0       
+2558  M  156   0       win-9x x8
+25F4  M  7     3       
+25FB  M  44    0       win-9x x2
+2627  M  9     0       
+2630  M  7     1       
+2637  M  9     2       win-9x x1
+2640  M  9     4       RAM/table x1
+2649  M  17    1       win-9x x1
+265A  M  19    1       win-9x x1
+266D  M  11    0       win-9x x1
+2678  M  12    3       RAM/table x1
+2684  M  27    0       win-9x x1
+269F  M  10    1       win-9x x1
+26A9  M  143   1       win-Ax x3, win-9x x3, RAM/table x3
+2738  M  43    1       win-Ax x4, win-9x x2
+2763  M  100   0       win-Ax x5
+27C7  M  14    0       
+27D5  M  11    0       
+27E0  M  14    2       
+27EE  M  7     0       
+27F5  M  90    0       win-9x x3
+284F  M  105   1       win-9x x8, win-Ax x3
+28B8  M  10    0       
+28C2  M  142   0       win-8x x7, win-9x x6
+2950  M  10    1       
+295A  M  90    2       win-8x x5
+29B4  M  21    1       win-8x x1
+29C9  M  10    0       
+29D3  M  9     1       
+29DC  M  12    1       win-9x x1
+29E8  M  26    1       
+2A02  M  220   2       win-Ax x16, RAM/table x1, RAM/table-hi x1, MAC/reg-low x1
+2ADE  M  21    0       win-Ax x2, win-9x x1
+2AF3  M  8     0       
+2AFB  M  22    0       win-Ax x1
+2B11  M  39    0       win-Ax x2, win-8x x1, MAC/reg-low x1
+2B38  M  150   0       win-Ax x8, win-8x x1
+2BCE  M  65    0       win-Ax x4, win-9x x1
+2C0F  M  21    1       win-Ax x1, win-9x x1
+2C24  M  10    2       win-8x x1
+2C2E  M  50    1       win-9x x3
+2C60  M  224   1       win-Ax x14, RAM/table-hi x1
+2D40  M  123   0       win-Ax x11
+2DBB  M  26    0       win-Ax x4
+2DD5  M  48    0       win-Ax x4
+2E05  M  12    0       win-Ax x1
+2E11  M  75    0       win-Ax x6
+2E5C  M  88    0       win-Ax x7
+2EB4  M  55    0       win-Ax x4
+2EEB  M  19    0       win-9x x1
+2EFE  M  11    1       win-9x x1
+2F09  M  8     1       win-Ax x1
+2F11  M  9     0       win-Ax x1
+2F1A  M  9     1       win-Ax x1
+2F23  M  10    1       win-Ax x1
+2F2D  M  14    1       win-9x x1
+2F3B  M  122   0       win-Ax x7
+2FB5  M  36    0       win-Ax x3, win-9x x1
+2FD9  M  13    0       win-Ax x1
+2FE6  M  11    0       win-9x x1
+2FF1  M  59    0       
+302C  M  171   0       
+30D7  M  97    1       RAM/table x5, win-9x x3, win-Ax x3
+3138  M  135   1       win-Ax x4, RAM/table x2
+31BF  M  21    0       win-Ax x2, MAC/reg-low x1
+31D4  M  40    0       win-9x x2, MAC/reg-low x1
+31FC  M  22    0       win-Ax x1
+3212  M  154   0       win-Ax x8, win-9x x3, MAC/reg-low x1
+32AC  M  7     0       win-9x x1
+32B3  M  30    0       MAC/reg-low x4, win-Ax x1
+32D1  M  9     2       win-Ax x1
+32DA  M  18    1       win-9x x1
+32EC  M  18    1       win-9x x1
+32FE  M  7     2       
+3305  M  29    1       win-9x x2
+3322  M  40    6       
+334A  M  24    1       win-9x x1
+3362  M  23    1       win-9x x1
+3379  M  60    0       win-9x x3, RAM/table x1
+33B5  M  54    0       
+33EB  M  56    0       MAC/reg-low x1, RAM/table x1, win-9x x1
+3423  M  11    3       MAC/reg-low x2
+342E  M  36    0       RAM/table x2, win-Ax x1
+3452  M  92    0       win-9x x1
+34AE  M  14    0       
+34BC  H  80    2       win-9x x3, RAM/table x1
+350C  H  12    4       
+3518  H  8     1       win-9x x1
+3520  H  4     2       
+3524  H  10    1       
+352E  M  85    0       win-9x x4
+3583  M  10    0       
+358D  M  35    0       MAC/reg-low x1, win-9x x1
+35B0  H  10    1       win-9x x1
+35BA  M  11    2       win-9x x1
+35C5  M  96    0       win-9x x3, win-Ax x2, RAM/table x1
+3625  M  10    0       
+362F  M  24    2       win-9x x2
+3647  M  11    0       win-9x x1
+3652  M  39    0       win-9x x4
+3679  M  22    0       win-9x x1
+368F  M  14    0       win-9x x1
+369D  H  82    1       win-9x x3, win-Ax x1, RAM/table x1
+36EF  M  27    0       win-9x x4
+370A  M  30    0       win-9x x2
+3728  H  1     0       
+3729  H  50    3       win-9x x3
+375B  M  8     0       win-9x x1
+3763  M  14    0       win-9x x2
+3771  M  17    1       win-9x x1
+3782  M  36    0       win-9x x4
+37A6  H  7     2       
+37AD  M  1     4       
+37AE  H  11    0       
+37B9  H  11    2       
+37C4  H  6     1       
+37CA  M  7     2       
+37D1  H  8     1       win-9x x1
+37D9  H  9     2       
+37E2  M  11    0       
+37ED  M  183   0       
+38A4  H  3     3       
+38A7  M  50    1       win-9x x3, win-Ax x1
+38D9  M  9     0       MAC/reg-low x1
+38E2  M  24    1       win-9x x2, win-Ax x1
+38FA  M  18    0       win-Ax x1
+390C  M  40    0       win-9x x2
+3934  M  9     0       win-Ax x1
+393D  M  10    0       win-9x x1
+3947  M  15    0       
+3956  M  106   0       win-Ax x6, win-9x x2
+39C0  M  12    0       win-Ax x1
+39CC  M  123   0       win-9x x5, win-Ax x2
+3A47  M  19    2       win-9x x2
+3A5A  M  8     1       
+3A62  M  201   0       win-9x x8
+3B2B  M  13    1       
+3B38  M  10    0       win-9x x1
+3B42  M  76    4       win-Ax x3, RAM/table x2
+3B8E  M  11    1       win-9x x1
+3B99  M  88    0       RAM/table x1, win-Ax x1
+3BF1  M  15    0       win-Ax x1
+3C00  M  139   3       win-Ax x7, win-9x x2, RAM/table x1
+3C8B  M  50    3       win-Ax x4
+3CBD  M  15    0       
+3CCC  M  92    0       win-Ax x2, win-9x x1
+3D28  M  27    1       win-Ax x1
+3D43  M  75    0       win-Ax x6
+3D8E  M  90    0       win-Ax x8
+3DE8  M  183   0       win-Ax x16
+3E9F  M  9     1       
+3EA8  M  9     1       
+3EB1  M  9     0       
+3EBA  M  8     1       win-Ax x1
+3EC2  M  7     1       win-Ax x1
+3EC9  M  12    1       
+3ED5  M  16    0       
+3EE5  M  10    2       
+3EEF  M  106   2       win-Ax x6
+3F59  M  15    1       win-Ax x1
+3F68  M  8     1       
+3F70  M  8     1       win-Ax x1
+3F78  M  8     1       win-Ax x1
+3F80  M  10    1       win-Ax x1
+3F8A  M  7     1       win-9x x1
+3F91  M  7     2       
+3F98  M  9     2       RAM/table x1, win-Ax x1
+3FA1  M  12    2       
+3FAD  M  18    1       win-Ax x3
+3FBF  M  31    2       win-9x x2, win-Ax x1
+3FDE  M  120   2       win-Ax x12
+4056  M  63    0       
+4095  M  9     0       win-Ax x1
+409E  H  4     0       win-9x x1, win-Ax x1
+40A2  H  11    1       
+40AD  H  28    1       win-Ax x3
+40C9  H  17    0       
+40DA  M  11    0       win-9x x2
+40E5  H  54    0       win-9x x4, win-Ax x2
+411B  M  2     2       
+411D  H  5     0       
+4122  H  11    2       win-9x x1
+412D  M  57    0       win-9x x6, win-Ax x1
+4166  M  22    0       win-9x x1
+417C  M  51    1       win-9x x3, MAC/reg-low x2, RAM/table x1, win-Ax x1
+41AF  M  34    0       win-9x x2, RAM/table x1
+41D1  M  34    2       win-9x x3
+41F3  H  7     2       
+41FA  M  8     0       
+4202  M  31    0       win-9x x3
+4221  M  25    1       win-9x x1
+423A  M  10    2       RAM/table x1
+4244  M  15    0       RAM/table x1
+4253  M  28    0       win-9x x1
+426F  M  7     1       win-9x x1
+4276  M  44    0       win-9x x5
+42A2  M  19    0       
+42B5  M  8     2       win-9x x1
+42BD  M  337   1       win-Ax x13, win-9x x13, RAM/table x2
+440E  M  5     1       
+4413  H  70    1       win-Ax x1
+4459  M  37    0       
+447E  M  135   0       win-Ax x9, win-9x x1
+4505  H  6     0       
+450B  H  1     1       win-Ax x1
+450C  H  6     2       
+4512  H  6     2       win-Ax x1
+4518  H  3     2       win-Ax x2
+451B  H  9     2       
+4524  M  43    0       win-Ax x1
+454F  M  109   0       win-9x x9, RAM/table x1
+45BC  H  310   0       win-9x x20
+46F2  H  6     1       MAC/reg-low x1
+46F8  H  7     2       
+46FF  H  7     2       
+4706  H  8     2       win-9x x1
+470E  H  9     2       
+4717  H  32    2       win-9x x3
+4737  H  8     2       win-9x x1
+473F  M  9     1       win-9x x1
+4748  M  10    2       win-9x x1
+4752  M  15    0       win-9x x1
+4761  M  13    0       
+476E  H  15    3       win-9x x1, RAM/table x1
+477D  H  26    0       win-9x x1
+4797  H  16    2       RAM/table x1
+47A7  H  7     2       
+47AE  M  40    2       win-Ax x2, RAM/table x1, win-9x x1
+47D6  M  9     0       
+47DF  H  58    2       win-9x x2, RAM/table x2
+4819  H  164   1       win-9x x15, win-Bx+ x1, RAM/table x1
+48BD  H  30    10      
+48DB  H  24    11      
+48F3  H  4     25      
+48F7  H  2     1       
+48F9  H  6     1       win-Bx+ x1
+48FF  H  1     11      
+4900  H  2     1       
+4902  H  7     1       win-Bx+ x1
+4909  H  2     1       
+490B  H  7     1       win-Bx+ x1
+4912  H  8     1       
+491A  M  29    0       win-9x x1
+4937  H  19    0       win-9x x1
+494A  M  59    1       win-9x x1
+4985  M  8     1       
+498D  M  11    1       
+4998  M  82    1       win-Ax x3
+49EA  M  90    0       
+4A44  M  60    1       win-Ax x3
+4A80  M  14    1       
+4A8E  M  82    0       win-9x x2
+4AE0  M  100   0       win-9x x10
+4B44  M  78    8       
+4B92  M  7     4       
+4B99  M  69    0       win-9x x5
+4BDE  M  12    0       win-9x x1
+4BEA  M  82    0       win-9x x9
+4C3C  M  12    1       
+4C48  M  53    0       win-9x x6
+4C7D  M  62    0       win-9x x7, MAC/reg-low x1
+4CBB  M  58    0       
+4CF5  M  53    0       
+4D2A  M  23    0       win-9x x1
+4D41  M  26    0       
+4D5B  M  62    0       win-9x x1
+4D99  M  10    1       win-9x x1
+4DA3  M  144   0       win-9x x7, win-Ax x2
+4E33  M  138   1       win-Ax x7, RAM/table x5, win-9x x1
+4EBD  H  7     2       
+4EC4  H  9     1       
+4ECD  H  13    0       
+4EDA  M  29    5       
+4EF7  H  8     2       
+4EFF  M  7     1       RAM/table x1
+4F06  M  8     2       RAM/table x1
+4F0E  M  90    0       win-Ax x4, win-9x x4, RAM/table x1
+4F68  M  8     1       win-9x x1
+4F70  M  8     1       win-9x x1
+4F78  M  8     1       win-9x x1
+4F80  H  7     1       
+4F87  M  20    0       win-Ax x1
+4F9B  H  16    0       win-Ax x2
+4FAB  M  5     4       
+4FB0  H  19    3       win-Ax x2
+4FC3  H  9     3       
+4FCC  H  8     1       
+4FD4  M  3     3       
+4FD7  M  1     4       
+4FD8  H  25    7       win-Ax x2
+4FF1  H  5     0       win-Ax x1
+4FF6  H  6     1       
+4FFC  H  33    1       win-Ax x2, win-9x x2
+501D  H  110   3       win-Ax x11, win-9x x1
+508B  H  21    1       win-Ax x4, MAC/reg-low x3
+50A0  M  50    3       
+50D2  H  7     4       
+50D9  H  8     1       
+50E1  H  12    1       
+50ED  M  32    0       win-Ax x2, win-9x x2
+510D  M  27    0       RAM/table x2, win-Ax x2
+5128  M  17    0       
+5139  M  17    0       
+514A  M  162   0       
+51EC  M  25    0       
+5205  M  4     5       
+5209  H  11    3       
+5214  H  68    0       RAM/table-hi x1
+5258  H  7     0       
+525F  H  65    0       MAC/reg-low x1, win-Ax x1
+52A0  H  5     0       
+52A5  H  55    0       
+52DC  H  29    0       win-Ax x1
+52F9  H  9     0       
+5302  H  31    0       MAC/reg-low x2, win-Ax x1
+5321  H  132   0       win-Ax x62, MAC/reg-low x5, RAM/table-hi x4, win-9x x1, RAM/table x1
+53A5  H  244   0       
+5499  H  220   7       
+5575  M  336   6       
+56C5  M  298   5       
+57EF  H  34    0       win-Ax x3
+5811  H  35    0       
+5834  H  110   0       win-Ax x7
+58A2  M  5     14      
+58A7  H  102   12      
+590D  H  13    0       
+591A  H  11    2       win-9x x1
+5925  H  12    1       win-9x x1
+5931  M  5     0       
+5936  H  2     2       
+5938  H  9     1       win-Ax x1
+5941  H  88    1       win-Ax x5
+5999  H  31    0       win-Ax x2
+59B8  H  21    0       
+59CD  H  195   0       win-Ax x15
+5A90  H  1     0       
+5A91  H  7     4       win-Ax x1
+5A98  H  9     2       win-Ax x1
+5AA1  H  11    1       win-Ax x1
+5AAC  M  94    1       win-Ax x2, RAM/table-hi x1
+5B0A  H  8     2       
+5B12  M  9     1       win-Ax x1, RAM/table-hi x1
+5B1B  H  11    1       win-9x x1
+5B26  H  13    1       win-9x x1
+5B33  M  81    0       win-Ax x7
+5B84  M  10    0       win-Ax x1
+5B8E  M  15    0       win-Ax x2
+5B9D  M  138   0       win-Ax x16
+5C27  M  14    0       win-Ax x2
+5C35  H  90    1       win-Ax x4
+5C8F  H  27    0       win-Ax x11
+5CAA  H  147   0       
+5D3D  H  12    2       win-Ax x1
+5D49  H  10    1       win-Ax x2
+5D53  M  14    0       win-Ax x2
+5D61  M  48    0       win-Ax x2, win-9x x1
+5D91  M  9     0       RAM/table x1
+5D9A  M  8     0       win-Ax x1
+5DA2  H  8     1       win-Ax x1
+5DAA  H  8     1       
+5DB2  H  8     1       
+5DBA  M  10    2       
+5DC4  M  38    0       win-9x x2, win-Ax x1
+5DEA  M  12    0       MAC/reg-low x1
+5DF6  M  9     2       win-Ax x1, win-9x x1
+5DFF  M  64    1       win-Ax x5, MAC/reg-low x1
+5E3F  M  98    1       win-Ax x6, MAC/reg-low x4, win-Bx+ x1
+5EA1  M  81    1       
+5EF2  M  8     1       
+5EFA  M  101   0       win-9x x7
+5F5F  M  8     2       
+5F67  M  9     1       
+5F70  M  8     0       MAC/reg-low x1
+5F78  M  9     1       
+5F81  M  9     1       
+5F8A  H  10    1       win-Ax x1
+5F94  M  12    1       
+5FA0  M  24    0       MAC/reg-low x2
+5FB8  M  29    0       MAC/reg-low x4
+5FD5  M  55    0       win-Ax x3
+600C  M  97    1       win-Ax x6
+606D  M  10    1       
+6077  H  1     1       
+6078  M  6     4       
+607E  H  4     9       
+6082  M  156   0       win-Ax x5, RAM/table x2, win-9x x1
+611E  M  56    1       win-Ax x3, RAM/table x2
+6156  M  43    1       win-Ax x4, win-9x x1
+6181  H  9     2       
+618A  M  99    0       RAM/table x4, win-Ax x1, win-8x x1
+61ED  M  11    2       
+61F8  M  12    1       
+6204  M  12    1       
+6210  M  60    1       win-Ax x3, RAM/table x2
+624C  M  74    1       win-Ax x3, win-9x x1
+6296  H  42    6       win-Ax x1
+62C0  H  33    1       win-Ax x4
+62E1  H  50    1       win-Ax x1
+6313  M  49    0       win-Ax x4, RAM/table x2, win-9x x1
+6344  M  83    0       win-9x x4, win-Ax x3
+6397  M  9     2       win-9x x1
+63A0  M  282   0       win-9x x20, win-Ax x5
+64BA  M  8     2       
+64C2  M  9     2       
+64CB  H  10    2       
+64D5  M  12    0       
+64E1  M  47    0       win-9x x5
+6510  M  10    0       win-9x x1
+651A  M  11    0       win-9x x1
+6525  M  109   0       win-9x x6, win-Ax x2, RAM/table x1
+6592  M  11    0       
+659D  H  2     0       
+659F  M  18    0       RAM/table x1
+65B1  M  51    0       win-9x x3
+65E4  M  5     0       
+65E9  M  11    1       win-Ax x2
+65F4  H  60    7       win-Ax x14, win-9x x11, RAM/table x2
+6630  H  65    1       
+6671  H  7     1       
+6678  H  42    3       
+66A2  H  106   3       
+670C  H  7     2       win-9x x1
+6713  H  9     2       win-9x x1
+671C  M  8     1       win-Bx+ x1
+6724  H  8     1       RAM/table x1
+672C  M  8     1       
+6734  M  8     1       RAM/table x1
+673C  M  8     1       win-9x x1
+6744  M  9     1       win-9x x1
+674D  M  9     1       win-9x x1
+6756  H  9     1       win-9x x1
+675F  M  10    1       
+6769  M  12    0       win-9x x1
+6775  M  33    0       win-Ax x7
+6796  H  14    2       
+67A4  M  22    0       win-9x x1
+67BA  M  112   0       win-9x x6, win-Ax x2, RAM/table x1
+682A  M  14    0       win-Ax x1
+6838  M  8     0       
+6840  M  7     3       win-9x x1
+6847  M  8     1       win-9x x1
+684F  H  37    0       win-9x x4
+6874  M  11    1       win-9x x1
+687F  H  31    0       win-9x x1
+689E  M  35    0       win-9x x4
+68C1  M  141   0       win-9x x3, MAC/reg-low x2, RAM/table x1, win-Ax x1
+694E  M  12    2       win-9x x1
+695A  H  8     1       
+6962  H  160   0       win-9x x21, RAM/table x1
+6A02  M  5     2       
+6A07  H  12    0       
+6A13  H  11    1       
+6A1E  H  8     2       win-9x x1
+6A26  M  53    0       win-Ax x2, MAC/reg-low x2
+6A5B  M  17    3       win-9x x2, win-Ax x1
+6A6C  M  177   0       win-9x x12, win-Ax x2, RAM/table x1
+6B1D  M  175   0       win-9x x15, win-Ax x4
+6BCC  M  8     1       win-9x x1
+6BD4  M  18    1       win-9x x1
+6BE6  M  30    1       win-9x x2
+6C04  H  10    1       win-9x x1, RAM/table x1
+6C0E  H  1     1       win-9x x2
+6C0F  M  13    1       
+6C1C  M  18    3       
+6C2E  M  39    1       
+6C55  M  5     1       
+6C5A  H  71    4       win-9x x3
+6CA1  M  159   0       win-9x x2
+6D40  H  8     1       
+6D48  M  16    0       
+6D58  M  53    2       win-Ax x3, win-9x x1
+6D8D  M  8     0       win-Ax x1
+6D95  M  134   0       win-9x x7, win-Bx+ x3, win-Ax x2
+6E1B  M  19    0       win-9x x1
+6E2E  M  19    0       win-9x x1
+6E41  M  33    0       win-9x x2
+6E62  M  36    0       win-Ax x1, win-9x x1
+6E86  M  19    0       win-Ax x1, win-9x x1
+6E99  M  18    0       
+6EAB  M  66    2       win-9x x1
+6EED  H  6     2       
+6EF3  H  5     1       win-9x x1
+6EF8  H  6     1       
+6EFE  H  2     1       
+6F00  H  17    1       win-Ax x1
+6F11  H  2     3       
+6F13  H  26    2       
+6F2D  H  6     1       
+6F33  H  57    2       win-Ax x3, win-9x x3
+6F6C  M  52    0       win-Ax x2, win-9x x2, MAC/reg-low x1
+6FA0  M  21    0       win-Ax x2, win-9x x1
+6FB5  H  1     1       
+6FB6  M  12    0       win-9x x1
+6FC2  M  11    0       
+6FCD  H  23    2       win-9x x1, RAM/table x1
+6FE4  M  2     0       
+6FE6  M  1     2       
+6FE7  M  3     1       
+6FEA  M  6     2       
+6FF0  H  1     0       win-9x x1
+6FF1  H  16    0       
+7001  M  19    0       win-9x x2
+7014  M  24    1       win-Ax x1
+702C  H  107   0       win-Ax x12
+7097  M  32    0       win-9x x3
+70B7  M  11    0       win-9x x1
+70C2  M  72    0       win-Ax x7, win-9x x2, RAM/table x1
+710A  M  8     1       win-Ax x1
+7112  M  10    1       win-9x x1
+711C  M  14    0       win-9x x1
+712A  M  10    0       win-9x x1
+7134  M  24    0       win-9x x3
+714C  M  27    0       win-9x x1
+7167  M  86    0       win-Ax x3, win-9x x2
+71BD  M  13    1       win-9x x1
+71CA  M  14    0       win-9x x2
+71D8  M  138   0       win-Ax x8, win-9x x1
+7262  M  8     1       win-9x x1
+726A  M  7     2       
+7271  M  111   0       win-Ax x5, MAC/reg-low x1
+72E0  M  29    0       RAM/table x1
+72FD  M  15    0       win-9x x1, RAM/table x1
+730C  M  8     1       win-9x x1
+7314  M  35    0       win-9x x1, RAM/table x1
+7337  M  97    0       win-9x x7
+7398  M  7     1       
+739F  M  14    0       win-9x x2
+73AD  M  31    0       MAC/reg-low x1
+73CC  M  40    0       MAC/reg-low x1
+73F4  M  13    0       MAC/reg-low x2
+7401  M  89    0       win-Ax x6, MAC/reg-low x4
+745A  M  25    0       win-9x x1
+7473  M  6     0       
+7479  M  51    0       win-9x x3
+74AC  M  11    0       MAC/reg-low x1
+74B7  M  54    0       MAC/reg-low x3
+74ED  M  48    0       MAC/reg-low x2
+751D  M  60    0       MAC/reg-low x5, win-Ax x1
+7559  M  13    0       win-9x x1
+7566  M  38    0       win-9x x3
+758C  M  21    0       win-9x x2
+75A1  M  39    0       win-9x x3
+75C8  M  9     1       win-9x x1
+75D1  M  71    0       win-9x x5
+7618  M  27    0       
+7633  M  72    1       win-9x x5
+767B  M  93    0       win-9x x5, RAM/table x2
+76D8  M  9     1       RAM/table x1, win-9x x1
+76E1  M  33    0       win-Ax x3
+7702  M  28    0       win-Ax x3, MAC/reg-low x1
+771E  M  39    0       MAC/reg-low x2, win-Ax x1
+7745  M  12    0       
+7751  M  18    0       RAM/table x1
+7763  M  40    2       
+778B  M  15    0       
+779A  M  15    0       
+77A9  M  8     0       
+77B1  M  44    0       win-Ax x2
+77DD  M  7     0       
+77E4  H  9     2       
+77ED  H  38    0       
+7813  M  83    0       win-Ax x7, win-9x x1
+7866  M  49    0       
+7897  M  31    0       
+78B6  M  22    0       
+78CC  M  211   0       
+799F  M  31    0       win-9x x1
+79BE  M  13    0       RAM/table x1, win-9x x1
+79CB  M  23    0       
+79E2  M  15    0       win-9x x1
+79F1  M  24    0       RAM/table x1
+7A09  M  14    0       win-9x x1
+7A17  M  26    0       
+7A31  M  20    2       RAM/table x1, win-9x x1
+7A45  M  6     0       
+7A4B  M  13    1       win-9x x1
+7A58  M  32    0       win-9x x2
+7A78  M  18    1       win-9x x1
+7A8A  M  18    1       
+7A9C  M  40    1       MAC/reg-low x5
+7AC4  M  45    0       win-9x x5
+7AF1  M  12    1       win-9x x1
+7AFD  M  9     0       win-9x x1
+7B06  M  10    0       RAM/table x1
+7B10  M  20    0       RAM/table x1
+7B24  M  78    0       win-9x x4
+7B72  M  7     1       
+7B79  M  36    0       MAC/reg-low x1, win-9x x1
+7B9D  M  25    0       win-9x x1
+7BB6  M  61    0       win-9x x4, win-Ax x2
+7BF3  M  22    0       win-9x x1
+7C09  M  16    0       win-9x x1
+7C19  M  53    0       MAC/reg-low x3, win-Ax x1
+7C4E  M  11    0       win-9x x1
+7C59  M  25    0       win-9x x4
+7C72  M  11    0       
+7C7D  M  12    0       
+7C89  M  19    0       win-Ax x1
+7C9C  M  17    0       win-9x x2
+7CAD  M  12    0       win-9x x1
+7CB9  M  16    0       MAC/reg-low x1
+7CC9  M  9     0       MAC/reg-low x1
+7CD2  M  7     0       win-Ax x1
+7CD9  M  13    0       MAC/reg-low x1, win-Ax x1
+7CE6  M  12    0       RAM/table x1
+7CF2  M  11    0       win-9x x1
+7CFD  M  12    0       win-9x x2
+7D09  M  11    0       MAC/reg-low x1
+7D14  M  18    0       
+7D26  M  8     0       
+7D2E  M  10    0       win-Ax x1
+7D38  M  10    0       win-Ax x1
+7D42  M  10    0       win-Ax x1
+7D4C  M  9     0       RAM/table x1
+7D55  M  9     0       RAM/table x1
+7D5E  M  9     0       RAM/table x1
+7D67  M  9     0       RAM/table x1
+7D70  M  9     0       RAM/table x1
+7D79  M  9     0       RAM/table x1
+7D82  M  9     0       
+7D8B  M  8     0       
+7D93  M  9     0       win-9x x1
+7D9C  M  9     0       
+7DA5  M  9     0       win-Ax x1
+7DAE  M  9     0       win-9x x1
+7DB7  M  8     0       
+7DBF  M  13    0       RAM/table x1
+7DCC  M  15    0       RAM/table x1
+7DDB  M  15    0       RAM/table x1
+7DEA  M  9     0       
+7DF3  M  11    0       win-Ax x1
+
+call graph (accepted calls only):
+sub_09D8 -> sub_0FDF
+sub_09E7 -> sub_500F
+sub_0A14 -> sub_5449
+sub_0A1F -> sub_08F3, sub_0B00, sub_0B03, sub_0B2B, sub_0B2E, sub_0B30, sub_0B37, sub_0B3A, sub_0FB0, sub_0FD8, sub_0FDF, sub_509C, sub_6F33, sub_9B2B, sub_BD82
+sub_0B2B -> sub_08F3, sub_0B03
+sub_0B37 -> sub_08F3, sub_0B03
+sub_0B4B -> sub_0689, sub_06A2, sub_08F3, sub_0B40, sub_0B41, sub_0B44, sub_0ECE, sub_0EDA, sub_0FB0, sub_0FB7, sub_0FB8, sub_0FC3, sub_0FC8, sub_0FCC, sub_0FD8, sub_0FE6, sub_5732, sub_5733, sub_69C5, sub_6A02, sub_6C5A, sub_6F23, sub_6FD8, sub_8912, sub_BDA5
+sub_0E6C -> sub_0EC9
+sub_0EB2 -> sub_0EC9
+sub_0ECD -> sub_08F3
+sub_0EE2 -> sub_0B41, sub_0B44, sub_0EDA, sub_0FBF, sub_0FCC, sub_0FEE, sub_69B4, sub_69E8, sub_6FEA, sub_90E5, sub_BC75, sub_BD42
+sub_0FAB -> sub_08F3
+sub_0FC8 -> sub_08F3
+sub_0FDF -> sub_500F
+sub_0FF6 -> sub_100F, sub_500F
+sub_100F -> sub_BDB7
+sub_102C -> sub_10A0, sub_10B5, sub_10C8, sub_15E7, sub_5823, sub_BDE4
+sub_109C -> sub_BDB7
+sub_10B5 -> sub_100F, sub_10A0
+sub_10CE -> sub_100F, sub_10A0
+sub_110E -> sub_100F, sub_10A0, sub_3E48, sub_4685, sub_5FF9, sub_6014, sub_891A, sub_9FB8, sub_B3F4, sub_B401, sub_B479, sub_B4AC
+sub_117C -> sub_100F, sub_10A0, sub_17C7
+sub_11C0 -> sub_10A0, sub_1208
+sub_11E2 -> sub_10A0, sub_1208
+sub_1210 -> sub_10A0, sub_16C5, sub_3585, sub_4908, sub_B26A
+sub_1293 -> sub_100F, sub_10A0, sub_1440, sub_15D4, sub_15EB, sub_1739, sub_80AD, sub_A7BA, sub_A84F, sub_B5C8, sub_BCD2, sub_BDAE, sub_BDEB, sub_BDF3
+sub_13C3 -> sub_10A0
+sub_13E7 -> sub_0689, sub_100F, sub_10A0, sub_11C0, sub_11E2, sub_1440, sub_B30C, sub_B3AD, sub_B3CC
+sub_1449 -> sub_100F, sub_109C, sub_4B03, sub_4EDA, sub_4FBF, sub_4FDF
+sub_1499 -> sub_10A0, sub_10C8, sub_15E7, sub_BDE4
+sub_14FA -> sub_0663, sub_16BD, sub_1795, sub_179D, sub_9F94, sub_B398
+sub_15D4 -> sub_14FA, sub_4797
+sub_15E7 -> sub_1666, sub_4908, sub_4FD7
+sub_1666 -> sub_16BA, sub_16BC, sub_17A8, sub_48FF, sub_4908
+sub_16C9 -> sub_0689, sub_1575, sub_16C5, sub_1733, sub_4FB9, sub_5DA0, sub_7EEF, sub_7FD6, sub_8FC8
+sub_1713 -> sub_0689, sub_16C5, sub_1732, sub_4908
+sub_173F -> sub_1205
+sub_17A8 -> sub_48FF
+sub_17B6 -> sub_100F, sub_10A0, sub_9DBC, sub_B726
+sub_17F6 -> sub_5816, sub_B453
+sub_181B -> sub_18A7, sub_A734
+sub_1856 -> sub_669F, sub_BCD9
+sub_188D -> sub_1816, sub_1FAE, sub_3E87, sub_607E, sub_B12A
+sub_18EB -> sub_085A, sub_086D, sub_1BD9, sub_1BF2, sub_1BF9, sub_1BFB, sub_1D90, sub_1F5E, sub_1F6E, sub_1F7C, sub_1F89, sub_1F95, sub_1FC6, sub_1FF2, sub_4846, sub_4861, sub_48BD, sub_65F4, sub_80A2, sub_B751, sub_BD4C, sub_BD55, sub_BD5E, sub_BD67, sub_BD70, sub_BD79, sub_BDDD
+sub_1A5C -> sub_0847, sub_085A, sub_086D, sub_18A7, sub_1BF2, sub_1BF9, sub_1BFB, sub_1D90, sub_1D93, sub_1F60, sub_1F6E, sub_1F7C, sub_1F89, sub_1F95, sub_4846, sub_48BD, sub_48CA, sub_8E33, sub_BD8B
+sub_1BD8 -> sub_085A
+sub_1C0A -> sub_1FBC, sub_1FC0, sub_1FC6, sub_1FCE, sub_1FF2, sub_78EB, sub_7B38, sub_7F8A, sub_80A5, sub_80AD, sub_B79A, sub_BCD2, sub_BCFD
+sub_1C87 -> sub_085A, sub_086D, sub_1BD9, sub_1BF2, sub_1F66, sub_1F68, sub_1F6E, sub_1FBC, sub_4846, sub_48BD, sub_48DB, sub_48E7, sub_9F67, sub_B751, sub_BD4C, sub_BD55, sub_BD5E, sub_BD67, sub_BD70, sub_BD79, sub_BD8B, sub_BDDD
+sub_1D99 -> sub_48F3
+sub_1DBF -> sub_0879, sub_B763
+sub_1DF2 -> sub_0879
+sub_1DFC -> sub_0879
+sub_1E05 -> sub_0879
+sub_1E0F -> sub_0847, sub_0879, sub_1BF2, sub_1EF6, sub_1EF8, sub_1F9B, sub_1FA4
+sub_1EA0 -> sub_0879, sub_1EF4
+sub_1EB3 -> sub_0879, sub_1EF8, sub_1FA4, sub_7FDE
+sub_1EF4 -> sub_1EFE
+sub_1EFE -> sub_083A, sub_086D, sub_1F8F, sub_37AD, sub_38A4, sub_48BD, sub_48DB, sub_851B
+sub_1F6E -> sub_085A
+sub_1FA4 -> sub_1EFE
+sub_1FC6 -> sub_48F3
+sub_1FD9 -> sub_18A2
+sub_1FE2 -> sub_18A2, sub_BA01, sub_BA31
+sub_1FF9 -> sub_4FF6, sub_53E7
+sub_2019 -> sub_2063, sub_31F7, sub_3E7B, sub_45BD, sub_49D9, sub_B45A, sub_BA58
+sub_2099 -> sub_4FD8
+sub_20C7 -> sub_2204, sub_2224, sub_224E, sub_737B, sub_8C3C
+sub_2105 -> sub_21C6, sub_2204, sub_2224, sub_224E
+sub_2130 -> sub_21C6
+sub_213A -> sub_21C6, sub_2204, sub_2224, sub_224E, sub_2263, sub_265A, sub_75B0, sub_BB24, sub_BB79, sub_BBF3
+sub_21C6 -> sub_823A, sub_87A7
+sub_2204 -> sub_2292, sub_2640, sub_2652, sub_BCE6
+sub_2224 -> sub_2630, sub_2640
+sub_224E -> sub_2631, sub_5499, sub_58A2
+sub_2263 -> sub_2296, sub_26A9, sub_72FF, sub_775B, sub_8EB6
+sub_2292 -> sub_4FDF, sub_50A0
+sub_2302 -> sub_3585, sub_8A85, sub_8B92, sub_B26A
+sub_232C -> sub_245E, sub_2465, sub_25F4, sub_2629, sub_2637, sub_2670, sub_2678, sub_26A2, sub_7524, sub_BCB9
+sub_23A5 -> sub_245B
+sub_23B6 -> sub_2071, sub_207E, sub_245B, sub_245E, sub_25F4, sub_2629, sub_2637, sub_2649, sub_2670, sub_2678, sub_7524, sub_81FA, sub_826F, sub_B99F, sub_BA01, sub_BCB9
+sub_2490 -> sub_B9CF
+sub_249A -> sub_B9CB
+sub_24A4 -> sub_B9D4
+sub_24B7 -> sub_5FE2
+sub_24C5 -> sub_B9D9
+sub_24CF -> sub_27ED, sub_27F0, sub_5FD9, sub_5FE9, sub_B9E2, sub_B9F1, sub_B9FA, sub_B9FC, sub_BA09, sub_BA17, sub_BA1C, sub_BA23, sub_BA28, sub_BA45
+sub_2558 -> sub_08AA, sub_2292, sub_2296, sub_58A7, sub_8EFF, sub_8F06, sub_BB9D, sub_BBB6, sub_BC9D, sub_BDBF
+sub_25FB -> sub_25F4, sub_874B, sub_B6D8
+sub_2640 -> sub_2296
+sub_2649 -> sub_2640, sub_58A2
+sub_265A -> sub_2640, sub_8EB6
+sub_2684 -> sub_207E, sub_2678, sub_26A2
+sub_26A9 -> sub_269F, sub_2738, sub_581D, sub_58A7, sub_87D8, sub_8F0E, sub_A18A, sub_A724
+sub_2738 -> sub_2796, sub_A078
+sub_2763 -> sub_27E0, sub_27E1, sub_A078, sub_A4D5, sub_A70C, sub_A744
+sub_27D5 -> sub_27E0, sub_A4D5
+sub_27F5 -> sub_2845, sub_284F, sub_47BE, sub_8FD1, sub_90ED, sub_9EFA, sub_B337
+sub_284F -> sub_2950, sub_29C5, sub_29CB, sub_3E87, sub_B745
+sub_28B8 -> sub_2952
+sub_28C2 -> sub_295A, sub_29B4, sub_29CB, sub_29D3, sub_29DC, sub_29F7, sub_48F3, sub_4EDA, sub_BC7D
+sub_295A -> sub_29BE, sub_29C5, sub_29E8
+sub_29B4 -> sub_48F3
+sub_29D3 -> sub_48F3
+sub_29DC -> sub_48F3
+sub_2A02 -> sub_295A, sub_2C24, sub_2C28, sub_2C5A, sub_2EEA, sub_2EED, sub_2F09, sub_2F1A, sub_4FC0, sub_B7DD, sub_B813, sub_BC72
+sub_2AF3 -> sub_7322
+sub_2AFB -> sub_2C5A
+sub_2B11 -> sub_2C24, sub_48F3
+sub_2B38 -> sub_2A02, sub_2C1C, sub_2EF8, sub_2F13, sub_2F23, sub_2FCE, sub_4B44, sub_901D, sub_9930, sub_9AA2
+sub_2BCE -> sub_2A02, sub_2C5A, sub_2C60, sub_2F24, sub_48F3, sub_4B44
+sub_2C0F -> sub_48F3
+sub_2C2E -> sub_48F3
+sub_2C60 -> sub_2C1C, sub_2C5A, sub_2EED, sub_2F03, sub_2F33, sub_4B44, sub_66A2, sub_991F, sub_9B20, sub_9B2B, sub_BC72
+sub_2D40 -> sub_2C2E, sub_2C55, sub_2EED, sub_2F2D, sub_2FD8, sub_4B44, sub_4FC3, sub_9D53, sub_9DAA, sub_9DB2, sub_9F8A
+sub_2DD5 -> sub_2C17, sub_2EF3, sub_2F13, sub_2FCE, sub_9D93, sub_BD2E
+sub_2E05 -> sub_9DA2
+sub_2E11 -> sub_2FEA, sub_9B33, sub_9C35, sub_9D53
+sub_2E5C -> sub_2C0F, sub_2EF3, sub_2EFE, sub_4FB0
+sub_2EB4 -> sub_2F13, sub_2FDE, sub_901D, sub_9930, sub_9A91, sub_9AA1
+sub_2F2D -> sub_48F3
+sub_2F3B -> sub_2F33, sub_2FCF, sub_2FD8, sub_2FDE, sub_2FEA, sub_4B44, sub_5205, sub_8F87, sub_9D8C
+sub_2FB5 -> sub_48F3
+sub_2FF1 -> sub_50CE
+sub_302C -> sub_30D7, sub_3138, sub_31BA, sub_32EC, sub_3305, sub_334A, sub_3362, sub_37E1, sub_8202, sub_A89E, sub_ACA1, sub_B4B7, sub_B51D, sub_B559, sub_B566, sub_B589
+sub_30D7 -> sub_5575
+sub_3138 -> sub_4EDA, sub_5575
+sub_31FC -> sub_37E4
+sub_3212 -> sub_32D1, sub_32D2, sub_32DA, sub_48F3, sub_4EDA, sub_B398
+sub_32B3 -> sub_32D1, sub_48F3
+sub_32EC -> sub_32FF, sub_3423, sub_8098
+sub_32FE -> sub_3322
+sub_3305 -> sub_32FF, sub_3423, sub_35BA, sub_6063
+sub_3322 -> sub_37E5, sub_898D, sub_8EBD
+sub_334A -> sub_3322, sub_6063, sub_A597
+sub_3362 -> sub_3322, sub_376A
+sub_3379 -> sub_32FF, sub_3322, sub_37CA, sub_58A7, sub_6296
+sub_33B5 -> sub_32FE, sub_3423, sub_3524, sub_37A6, sub_5499, sub_607E, sub_8C3C, sub_8F68, sub_8F70
+sub_33EB -> sub_3322, sub_350C, sub_3585, sub_AC03
+sub_342E -> sub_32FE
+sub_34BC -> sub_350C, sub_3518, sub_3520, sub_35B0, sub_37A6, sub_37B9, sub_37C4, sub_37D1, sub_AFCE, sub_B75A, sub_BD09
+sub_3520 -> sub_37D9
+sub_352E -> sub_32FF, sub_3520, sub_3585, sub_35B3, sub_35BA, sub_376A, sub_3771, sub_666D, sub_812D, sub_BC59
+sub_358D -> sub_3322, sub_3426, sub_3585, sub_35B3, sub_BC59
+sub_35C5 -> sub_35B3, sub_362F, sub_3633, sub_3637, sub_363A, sub_7B38, sub_7C00, sub_7F8A, sub_AD8D
+sub_3625 -> sub_362F, sub_58A2
+sub_3652 -> sub_3729, sub_8740
+sub_3679 -> sub_35B3, sub_873F
+sub_368F -> sub_3729
+sub_369D -> sub_3729, sub_6630, sub_6796, sub_8166, sub_876E, sub_8F78, sub_A078
+sub_370A -> sub_35B3
+sub_3729 -> sub_0703
+sub_3771 -> sub_37CA, sub_589B, sub_817C
+sub_3782 -> sub_350C, sub_37B9
+sub_37A6 -> sub_37D9
+sub_37B9 -> sub_350C
+sub_37ED -> sub_38A7, sub_38E2, sub_3FDD, sub_55D8, sub_5FF0, sub_65FB, sub_81AF, sub_A769, sub_AA26, sub_AD48, sub_AD95, sub_B4ED, sub_B58E, sub_B5A1, sub_B5D1, sub_B633, sub_B67B
+sub_38A7 -> sub_75B3, sub_A313
+sub_38D9 -> sub_8942
+sub_38E2 -> sub_752E
+sub_38FA -> sub_5FCA
+sub_390C -> sub_3A47, sub_3B42, sub_3F91, sub_3F98, sub_762F
+sub_3947 -> sub_3B39, sub_5FCE
+sub_3956 -> sub_3A47, sub_3B42, sub_3F91, sub_3F98, sub_763A, sub_BCD2, sub_BD9C
+sub_39CC -> sub_3A4B, sub_3A4C, sub_3A5A, sub_3B39, sub_3C00, sub_3F8A, sub_5FB9, sub_7633, sub_8E33, sub_A26F, sub_A72C
+sub_3A47 -> sub_48F3
+sub_3A5A -> sub_5823
+sub_3A62 -> sub_3A52, sub_3B2B, sub_3B2C, sub_3B39, sub_3B42, sub_3B8E, sub_3B93, sub_3C00, sub_3EEF, sub_3FBF, sub_48F3, sub_5D99, sub_5FD1, sub_8E33
+sub_3B42 -> sub_581D, sub_58A7, sub_6763, sub_87D8, sub_A4C2
+sub_3B99 -> sub_3A52, sub_3B42, sub_3B93, sub_3C00, sub_3EEF, sub_3FBF, sub_581D, sub_5D99, sub_5FD1
+sub_3BF1 -> sub_58A7
+sub_3C00 -> sub_3BF8, sub_3C8B, sub_3EC2, sub_3F70, sub_3F80, sub_581F, sub_58A3
+sub_3C8B -> sub_3EA8, sub_4911
+sub_3CCC -> sub_3D28, sub_3D3B, sub_3E9F, sub_3EA0, sub_3EBA, sub_3EE5
+sub_3D43 -> sub_0689, sub_4FB8, sub_572F, sub_86F2, sub_8C6F
+sub_3D8E -> sub_3C8B, sub_3EC9, sub_3FAD, sub_4911
+sub_3DE8 -> sub_3D3B, sub_3EA0, sub_3EE5, sub_3F68, sub_5575, sub_9F78
+sub_3EA8 -> sub_3D38
+sub_3EB1 -> sub_3D37, sub_3D38, sub_3FA1
+sub_3EC2 -> sub_3C8B
+sub_3EC9 -> sub_3EE7
+sub_3ED5 -> sub_3EE7, sub_3FA1
+sub_3EEF -> sub_0879, sub_3F59, sub_3F5D, sub_3F78, sub_3FDE, sub_5BF2
+sub_3F59 -> sub_086D
+sub_3F78 -> sub_3FDE
+sub_3F80 -> sub_48F3
+sub_3FBF -> sub_48F3
+sub_3FDE -> sub_083A, sub_086D, sub_3D39, sub_3E39, sub_48BD, sub_48DB, sub_5F8F
+sub_4056 -> sub_5280
+sub_40AD -> sub_369D, sub_9F81
+sub_40E5 -> sub_40A2, sub_411B, sub_4122, sub_41F3
+sub_412D -> sub_411B, sub_4122, sub_A94E, sub_BC66
+sub_4166 -> sub_BCD2
+sub_417C -> sub_40AD, sub_47A7, sub_5FF2, sub_BD9C
+sub_41AF -> sub_417C, sub_6063, sub_78EB, sub_8F68
+sub_41D1 -> sub_41F3, sub_589B, sub_776A
+sub_41FA -> sub_41D1, sub_423A
+sub_4202 -> sub_41D1, sub_6678
+sub_4221 -> sub_423A, sub_607E, sub_776A
+sub_4253 -> sub_4221, sub_426F, sub_607E, sub_65F4
+sub_4276 -> sub_42B5
+sub_42A2 -> sub_4748, sub_47AE, sub_58A2
+sub_42B5 -> sub_416E
+sub_42BD -> sub_42B5, sub_440E, sub_4717, sub_4737, sub_4748, sub_476E, sub_47AE, sub_47DF, sub_4FD4, sub_4FD7, sub_58A2, sub_58A3, sub_58A7, sub_607E, sub_66A2, sub_A713, sub_A756
+sub_4413 -> sub_450B, sub_450C, sub_4512, sub_4518, sub_46F8, sub_46FF, sub_4706, sub_470E, sub_48DB
+sub_447E -> sub_086D, sub_0879, sub_37AD, sub_38A4, sub_450A, sub_450C, sub_4512, sub_4518, sub_451B, sub_46F8, sub_46FF, sub_4706, sub_470E, sub_48BD, sub_48DB, sub_48E7
+sub_4518 -> sub_48DB
+sub_4524 -> sub_0689, sub_3585, sub_4908, sub_56C5, sub_B26A
+sub_454F -> sub_473F, sub_4FB8, sub_4FB9, sub_5733, sub_669F
+sub_45BC -> sub_0689, sub_4413, sub_46F2, sub_4717, sub_4737, sub_476E, sub_47DF, sub_4FD4, sub_4FD8, sub_50A0, sub_56C5, sub_58A2, sub_6296, sub_65F4, sub_6671, sub_8EBD, sub_8EFF, sub_A70C, sub_A74D, sub_A7A4
+sub_470E -> sub_48DB
+sub_4717 -> sub_38A4, sub_451B
+sub_4752 -> sub_42BD, sub_A73C
+sub_4761 -> sub_476E, sub_47D1, sub_A847
+sub_476E -> sub_47A7
+sub_47AE -> sub_47D8, sub_A078
+sub_47DF -> sub_66A2
+sub_4819 -> sub_086D, sub_08AA, sub_48DB, sub_48F7, sub_48F9, sub_4900, sub_4902, sub_4909, sub_490B, sub_4912, sub_876E, sub_A7A4, sub_B1BD
+sub_491A -> sub_4818, sub_494A, sub_4EE2, sub_5209, sub_6558, sub_B39F, sub_B78B, sub_B99F
+irq_00_handler -> sub_5209
+sub_494A -> sub_4985, sub_498D, sub_4998, sub_4EBD
+sub_4998 -> sub_4990, sub_4EF7, sub_77E4
+sub_49EA -> sub_0689, sub_494D, sub_4A44, sub_4A80, sub_4A85, sub_4B92, sub_4C3C, sub_4F68, sub_4FB9, sub_5499, sub_5733, sub_7322
+sub_4A44 -> sub_4EB6, sub_5823, sub_58A2, sub_6EEA
+sub_4A8E -> sub_0689, sub_4B92, sub_4C6F, sub_77A6, sub_7B99, sub_7C00
+sub_4AE0 -> sub_3585, sub_4A84, sub_4A85, sub_4D54, sub_4E33, sub_4EFF, sub_5FD1
+sub_4B99 -> sub_0689, sub_4B92, sub_4C76, sub_4FB8, sub_5732
+sub_4BEA -> sub_4A84, sub_4FB8, sub_5732, sub_86F2
+sub_4C3C -> sub_4F06, sub_58A2
+sub_4C48 -> sub_0689, sub_4B92, sub_4C6F, sub_4C76, sub_4FB8, sub_5732, sub_86F2
+sub_4C7D -> sub_0689, sub_4C6F, sub_4C76, sub_4D54, sub_4FB8, sub_5732, sub_86F2
+sub_4CBB -> sub_0689, sub_4911, sub_4C70, sub_4C77, sub_4D55, sub_4FB9, sub_5733, sub_86F2
+sub_4D5B -> sub_0689, sub_48F3, sub_4C70, sub_4D99, sub_4FB8, sub_6F3B, sub_86F2, sub_9B2B, sub_BCB3
+sub_4DA3 -> sub_48FF, sub_4908, sub_4C6F, sub_4FB8, sub_4FB9, sub_4FC8, sub_4FD8, sub_56C5, sub_5732, sub_5733, sub_6296, sub_73B5, sub_7782, sub_86F2, sub_A94E, sub_AA5B, sub_BAC4
+sub_4E33 -> sub_4FF7, sub_7B93
+sub_4ECD -> sub_4EBD, sub_4EDA, sub_4EF7, sub_4FCC, sub_77E4
+sub_4F0E -> sub_4F06, sub_4F70, sub_4F78, sub_58A2, sub_6292, sub_BCE6
+sub_4F80 -> sub_4EC4
+sub_4F9B -> sub_4F80
+sub_4FB0 -> sub_6FE6
+sub_4FD8 -> sub_4FFC
+sub_4FFC -> sub_4797
+sub_501D -> sub_8FF7
+sub_508B -> sub_0780, sub_07AB, sub_501D
+sub_50D9 -> sub_501D
+sub_510D -> sub_7322
+sub_5128 -> sub_4B44, sub_4FD8
+sub_5139 -> sub_6C5A, sub_87A7
+sub_514A -> sub_69FA, sub_BC7D
+sub_5214 -> sub_6F33, sub_BD27
+sub_5258 -> sub_BD27
+sub_525F -> sub_4FAB, sub_50D2, sub_9DBA, sub_BC19, sub_BC45, sub_BC97, sub_BD1B, sub_BDD6
+sub_52A5 -> sub_0780, sub_4FAB, sub_50D2, sub_65F4
+sub_52DC -> sub_9941, sub_9AA3, sub_BC19, sub_BDD6
+sub_52F9 -> sub_4FAB
+sub_5302 -> sub_0780, sub_50D2, sub_BC3C, sub_BC45, sub_BD14
+sub_5321 -> sub_0780, sub_07AB, sub_4819, sub_48F3, sub_4FAB, sub_4FC3, sub_4FD8, sub_501D, sub_508B, sub_50D2, sub_50D9, sub_50E1, sub_5205, sub_6C5A, sub_6EED, sub_6F11, sub_6F13, sub_6FCD, sub_9936, sub_9937, sub_9A91, sub_9AA1, sub_9B0B, sub_9D9A, sub_B897, sub_BC3C, sub_BC45, sub_BC4E, sub_BC75, sub_BC89, sub_BC90, sub_BC97, sub_BCAD, sub_BCC9, sub_BD14, sub_BD1B, sub_BD21, sub_BD27, sub_BD2E, sub_BD38, sub_BDCE
+sub_57EF -> sub_9925, sub_9D9A
+sub_5811 -> sub_5205, sub_591A, sub_5A91, sub_6D40, sub_9019
+sub_5834 -> sub_591A, sub_5925, sub_5936, sub_5938, sub_5941, sub_5AA1, sub_5B0A, sub_5B1B, sub_5B26, sub_695A, sub_6C1C, sub_6C5A, sub_6F13, sub_6FCD, sub_9017
+sub_5941 -> sub_4B44, sub_4FC3, sub_5A98, sub_5DAA, sub_5DB2, sub_5F8A, sub_6C2E, sub_6C55, sub_6EED, sub_6F2D
+sub_5999 -> sub_4FB0
+sub_59B8 -> sub_5205, sub_5A91
+sub_59CD -> sub_4FB0, sub_5936, sub_5A98, sub_5C35, sub_5DA2, sub_6A02, sub_6C0F, sub_6EF3, sub_6EFE, sub_6FB5, sub_6FEA, sub_8F87, sub_901D
+sub_5AAC -> sub_5205, sub_5A91, sub_5AA2, sub_5B0A, sub_5B12, sub_5D93, sub_6FCF
+sub_5B26 -> sub_48F3
+sub_5B33 -> sub_4908, sub_4B40
+sub_5B8E -> sub_8F80
+sub_5B9D -> sub_06A2, sub_48FF, sub_57B0, sub_5937, sub_5AA2, sub_5D8C, sub_6F11
+sub_5C27 -> sub_6FE6
+sub_5C35 -> sub_5D3D
+sub_5C8F -> sub_5D3D, sub_5D49, sub_6C1C, sub_6EF8, sub_6FE7, sub_8EC4, sub_B866
+sub_5D53 -> sub_5AAC
+sub_5D61 -> sub_0689, sub_4FB8, sub_5733, sub_5A91, sub_5DBA, sub_6F11
+sub_5DC4 -> sub_0689, sub_4FB8, sub_5DF6
+sub_5DEA -> sub_5DBD, sub_5DF6
+sub_5DFF -> sub_5816, sub_5DBA, sub_5F60, sub_5F81
+sub_5E3F -> sub_48FF, sub_4908, sub_5DFF, sub_5EA1, sub_5F67, sub_5F6F, sub_5F78, sub_B271
+sub_5EA1 -> sub_5EF2
+sub_5EFA -> sub_5E3F, sub_5F94
+sub_5FA0 -> sub_5F5F
+sub_5FB8 -> sub_5F5F
+sub_5FD5 -> sub_4908, sub_56C5, sub_57B0
+sub_600C -> sub_6070, sub_6181, sub_64C3, sub_64CB, sub_675F, sub_6796
+sub_6082 -> sub_606D, sub_61F8, sub_6204, sub_64BA, sub_64D8, sub_671C
+sub_611E -> sub_581D, sub_58A7, sub_600C, sub_6156, sub_64C2
+sub_6156 -> sub_6078
+sub_618A -> sub_6070, sub_617E, sub_61ED, sub_61F0, sub_64BA
+sub_6210 -> sub_581D, sub_58A7, sub_624C, sub_87D8
+sub_624C -> sub_6078
+sub_6296 -> sub_58A7, sub_62C0, sub_62E1, sub_6724, sub_87D8
+sub_62C0 -> sub_6078
+sub_62E1 -> sub_6181, sub_64CB
+sub_6313 -> sub_6397, sub_6734
+sub_6344 -> sub_3E87, sub_5816, sub_58A7, sub_6078, sub_61ED, sub_6397, sub_87D8
+sub_63A0 -> sub_58A2, sub_607E, sub_611E, sub_626F, sub_669F, sub_670C, sub_6713, sub_672C, sub_6744, sub_674D, sub_775B, sub_816E, sub_8737, sub_8740, sub_874B, sub_87A7, sub_8EB6, sub_8EBD
+sub_64E1 -> sub_673C, sub_7640
+sub_651A -> sub_65E9
+sub_6525 -> sub_6210, sub_6597, sub_7763, sub_776A, sub_7771, sub_8095, sub_87AE
+sub_659F -> sub_6597
+sub_65B1 -> sub_6597, sub_7763, sub_7771, sub_8095, sub_87AE
+sub_65F4 -> sub_4FD4, sub_4FD7, sub_58A2, sub_6077, sub_670C, sub_6713, sub_6756, sub_816E, sub_8413, sub_8717, sub_8737, sub_876E, sub_87DF, sub_8EB6
+sub_6775 -> sub_64C2
+sub_6796 -> sub_5575
+sub_67A4 -> sub_08AA
+sub_67BA -> sub_37AD, sub_502C, sub_6840, sub_6847, sub_8413, sub_86F8, sub_87D1
+sub_682A -> sub_6840
+sub_6838 -> sub_6840
+sub_684F -> sub_5499, sub_58A2, sub_840E, sub_876E
+sub_6874 -> sub_874B, sub_8761
+sub_689E -> sub_6874, sub_8276
+sub_68C1 -> sub_085A, sub_48BD, sub_5BD8, sub_5BF2, sub_694E, sub_6A1E, sub_6A5B, sub_6C14, sub_7520, sub_77C4, sub_87A7
+sub_695A -> sub_4FD7
+sub_6962 -> sub_6A13, sub_6A1E, sub_6C04
+sub_6A26 -> sub_6296, sub_6A5B, sub_B6E1
+sub_6A6C -> sub_085A, sub_086D, sub_48BD, sub_48CA, sub_48DB, sub_48E7, sub_5BD9, sub_5BF2, sub_6BE6
+sub_6B1D -> sub_694E, sub_6A5B, sub_6BCC, sub_6BD4, sub_BBB6
+sub_6BE6 -> sub_0847, sub_4853, sub_48DB, sub_48E7
+sub_6C0E -> sub_086D, sub_48BD
+sub_6C5A -> sub_085A, sub_65F4, sub_6678, sub_6C0E, sub_80DA, sub_BD93
+sub_6CA1 -> sub_6C1C, sub_6D58, sub_8752, sub_B618
+sub_6D40 -> sub_80DA
+sub_6D48 -> sub_6CC5, sub_6D58, sub_750C
+sub_6D58 -> sub_5575, sub_55D8
+sub_6D95 -> sub_4FD8, sub_55D4, sub_5739, sub_6670, sub_6D8E, sub_874B
+sub_6E2E -> sub_65F4
+sub_6E41 -> sub_6F18, sub_75B3
+sub_6E62 -> sub_4908, sub_55EB, sub_6EAB, sub_6F06
+sub_6E86 -> sub_0689, sub_48FF
+sub_6E99 -> sub_54FA, sub_6EAB, sub_8FFC
+sub_6F33 -> sub_0689, sub_48FF, sub_6F00, sub_80AD
+sub_6F6C -> sub_06E1, sub_55E7, sub_6F06, sub_8FCB
+sub_6FA0 -> sub_0689, sub_48FF
+irq_03_handler -> sub_48F3
+sub_7001 -> sub_0689, sub_7014
+sub_7014 -> sub_34BC, sub_7F69
+irq_13_handler -> sub_34BC, sub_7F69
+sub_7097 -> sub_0689
+sub_70C2 -> sub_0689, sub_5575, sub_572F, sub_58A7, sub_710A, sub_7112, sub_7F68
+sub_7134 -> sub_0689
+sub_714C -> sub_0689, sub_607E
+sub_7167 -> sub_0689, sub_085A, sub_48BD, sub_48DB, sub_4908, sub_56C5, sub_71BD
+sub_71BD -> sub_37AD
+sub_71CA -> sub_0689, sub_5732
+sub_71D8 -> sub_3585, sub_48FF, sub_4FB8, sub_55EB, sub_5732, sub_573F, sub_7262, sub_726A, sub_80AD, sub_86F2, sub_8C6F, sub_8FCB, sub_8FFC, sub_9DBD, sub_AF06
+sub_7271 -> sub_06E1, sub_3585, sub_48FF, sub_4908, sub_726A, sub_9F6F
+sub_72E0 -> sub_0689, sub_730C
+sub_7314 -> sub_0689, sub_87A7
+sub_7337 -> sub_48F3, sub_4D94, sub_71C1, sub_7398
+sub_7401 -> sub_5816, sub_7453, sub_9FA0
+sub_7479 -> sub_5207, sub_7D3B, sub_7EE7
+sub_751D -> sub_50A0, sub_51C0
+sub_7566 -> sub_742E, sub_826F
+sub_758C -> sub_8E33
+sub_75A1 -> sub_75C8, sub_82BD
+sub_75D1 -> sub_607E, sub_8253
+sub_7618 -> sub_6465, sub_6678
+sub_7633 -> sub_607E, sub_758D
+sub_767B -> sub_4FD8, sub_6063, sub_65F4, sub_75C5, sub_76D8
+sub_76E1 -> sub_500F
+sub_771E -> sub_500F, sub_5816
+sub_7745 -> sub_69C5
+sub_779A -> sub_762F
+sub_77A9 -> sub_762F
+sub_77B1 -> sub_48FF, sub_4908, sub_57B0, sub_7E9F
+irq_4B_handler -> sub_B7B1
+sub_7813 -> sub_48F3, sub_4B44, sub_8FF7
+sub_7866 -> sub_8D99
+sub_799F -> sub_08AA, sub_5209
+sub_79CB -> sub_5499, sub_58A2, sub_5FD9, sub_5FE2, sub_79D9
+sub_79E2 -> sub_502C, sub_87D1
+sub_79F1 -> sub_67ED, sub_7A01, sub_87D1
+sub_7A09 -> sub_7A01, sub_87D1
+sub_7A17 -> sub_5499, sub_67ED, sub_7A31, sub_87D1
+sub_7A31 -> sub_58A7
+sub_7A45 -> sub_7A31
+sub_7A58 -> sub_7A4B, sub_7A78
+sub_7A78 -> sub_7A8A, sub_7A9C
+sub_7A8A -> sub_517C, sub_57B6
+sub_7B24 -> sub_75B0, sub_7B72, sub_823A
+sub_7B72 -> sub_7AF1
+sub_7B79 -> sub_502C, sub_5823, sub_6296, sub_750C, sub_87D1
+sub_7BB6 -> sub_08AA
+sub_7BF3 -> sub_502C, sub_6296, sub_87D1
+sub_7C09 -> sub_5499, sub_58A2, sub_6292
+sub_7C19 -> sub_07AB
+sub_7CB9 -> sub_750C
+sub_7CC9 -> sub_07AB
+sub_7D14 -> sub_07AB
+sub_7D4C -> sub_0847
+sub_7D55 -> sub_0847
+sub_7D5E -> sub_0847
+sub_7D67 -> sub_0847
+sub_7D70 -> sub_0847
+sub_7D79 -> sub_0847
+sub_7D82 -> sub_48F3

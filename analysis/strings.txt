@@ -1,0 +1,12 @@
+Printable ASCII runs in the 8051 image — none are real strings; all three are
+byte tables (register-init / parameter tables) whose bytes happen to be printable:
+
+RAM 00AD  file 0000CD  '22$22CKCKCKY22CKCKYZ...'  -> data table (parameter/index table,
+  repeats 32/24/43/4B/43/4B patterns; see report §6 "Data tables")
+RAM 0DC4  file 000DE4  'NG NL#NQ$NV%N[@NiA...'   -> register-init pair table:
+  (0x4E61,v)(0x4E78,v)(0x4E7D,v)... MAC-register addresses + values
+RAM 0DDB  file 000DFB  'GNdINn`NsaNxbN}cN'       -> continuation of the same table
+
+Conclusion: this firmware build embeds no diagnostic/version strings — it is fully
+table-driven. Identity information lives only in the 32-byte header (version 35,
+SVN index 23052).
